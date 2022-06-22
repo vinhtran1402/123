@@ -1,0 +1,6 @@
+C:\Users\NN\Desktop\EasyCSharp\LapTrinhCanBan1506\Ngoai Le\obj\Debug\Ngoai Le.csproj.CoreCompileInputs.cache
+C:\Users\NN\Desktop\EasyCSharp\LapTrinhCanBan1506\Ngoai Le\bin\Debug\Ngoai Le.exe.config
+C:\Users\NN\Desktop\EasyCSharp\LapTrinhCanBan1506\Ngoai Le\bin\Debug\Ngoai Le.exe
+C:\Users\NN\Desktop\EasyCSharp\LapTrinhCanBan1506\Ngoai Le\bin\Debug\Ngoai Le.pdb
+C:\Users\NN\Desktop\EasyCSharp\LapTrinhCanBan1506\Ngoai Le\obj\Debug\Ngoai Le.exe
+C:\Users\NN\Desktop\EasyCSharp\LapTrinhCanBan1506\Ngoai Le\obj\Debug\Ngoai Le.pdb

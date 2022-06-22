@@ -1,0 +1,7 @@
+C:\Users\NN\Desktop\EasyCSharp\LapTrinhCanBan1506\Su Dung Ham\bin\Debug\Su Dung Ham.exe.config
+C:\Users\NN\Desktop\EasyCSharp\LapTrinhCanBan1506\Su Dung Ham\bin\Debug\Su Dung Ham.exe
+C:\Users\NN\Desktop\EasyCSharp\LapTrinhCanBan1506\Su Dung Ham\bin\Debug\Su Dung Ham.pdb
+C:\Users\NN\Desktop\EasyCSharp\LapTrinhCanBan1506\Su Dung Ham\obj\Debug\Su Dung Ham.csproj.CoreCompileInputs.cache
+C:\Users\NN\Desktop\EasyCSharp\LapTrinhCanBan1506\Su Dung Ham\obj\Debug\Su Dung Ham.exe
+C:\Users\NN\Desktop\EasyCSharp\LapTrinhCanBan1506\Su Dung Ham\obj\Debug\Su Dung Ham.pdb
+C:\Users\NN\Desktop\EasyCSharp\LapTrinhCanBan1506\Su Dung Ham\obj\Debug\Su Dung Ham.csproj.AssemblyReference.cache

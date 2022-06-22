@@ -1,0 +1,7 @@
+C:\Users\NN\Desktop\EasyCSharp\LapTrinhCanBan1506\Phuong Trinh Bat 2\bin\Debug\Phuong Trinh Bat 2.exe.config
+C:\Users\NN\Desktop\EasyCSharp\LapTrinhCanBan1506\Phuong Trinh Bat 2\bin\Debug\Phuong Trinh Bat 2.exe
+C:\Users\NN\Desktop\EasyCSharp\LapTrinhCanBan1506\Phuong Trinh Bat 2\bin\Debug\Phuong Trinh Bat 2.pdb
+C:\Users\NN\Desktop\EasyCSharp\LapTrinhCanBan1506\Phuong Trinh Bat 2\obj\Debug\Phuong Trinh Bat 2.csproj.AssemblyReference.cache
+C:\Users\NN\Desktop\EasyCSharp\LapTrinhCanBan1506\Phuong Trinh Bat 2\obj\Debug\Phuong Trinh Bat 2.csproj.CoreCompileInputs.cache
+C:\Users\NN\Desktop\EasyCSharp\LapTrinhCanBan1506\Phuong Trinh Bat 2\obj\Debug\Phuong Trinh Bat 2.exe
+C:\Users\NN\Desktop\EasyCSharp\LapTrinhCanBan1506\Phuong Trinh Bat 2\obj\Debug\Phuong Trinh Bat 2.pdb

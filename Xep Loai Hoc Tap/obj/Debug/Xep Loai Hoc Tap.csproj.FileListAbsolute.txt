@@ -1,0 +1,2 @@
+C:\Users\NN\Desktop\EasyCSharp\LapTrinhCanBan1506\Xep Loai Hoc Tap\obj\Debug\Xep Loai Hoc Tap.csproj.CoreCompileInputs.cache
+C:\Users\NN\Desktop\EasyCSharp\LapTrinhCanBan1506\Xep Loai Hoc Tap\obj\Debug\Xep Loai Hoc Tap.csproj.AssemblyReference.cache

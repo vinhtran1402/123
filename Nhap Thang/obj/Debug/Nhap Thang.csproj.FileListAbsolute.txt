@@ -1,0 +1,7 @@
+C:\Users\NN\Desktop\EasyCSharp\LapTrinhCanBan1506\Nhap Thang\bin\Debug\Nhap Thang.exe.config
+C:\Users\NN\Desktop\EasyCSharp\LapTrinhCanBan1506\Nhap Thang\bin\Debug\Nhap Thang.exe
+C:\Users\NN\Desktop\EasyCSharp\LapTrinhCanBan1506\Nhap Thang\bin\Debug\Nhap Thang.pdb
+C:\Users\NN\Desktop\EasyCSharp\LapTrinhCanBan1506\Nhap Thang\obj\Debug\Nhap Thang.csproj.AssemblyReference.cache
+C:\Users\NN\Desktop\EasyCSharp\LapTrinhCanBan1506\Nhap Thang\obj\Debug\Nhap Thang.csproj.CoreCompileInputs.cache
+C:\Users\NN\Desktop\EasyCSharp\LapTrinhCanBan1506\Nhap Thang\obj\Debug\Nhap Thang.exe
+C:\Users\NN\Desktop\EasyCSharp\LapTrinhCanBan1506\Nhap Thang\obj\Debug\Nhap Thang.pdb
